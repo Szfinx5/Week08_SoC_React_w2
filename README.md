@@ -26,7 +26,7 @@ In this hackatlon, we planned and developed a React application which fetch data
 We have built and application which fetch a random cat picture and a random cat facts from two different public API and display them on the site. 
 A button was added as well, when the user press it, the application will fetch another cat picture and pacts and render the page again.
 
-## Screenshots
+## Screenshots    
 
 <a href="https://ibb.co/JcpywBH"><img src="https://i.ibb.co/grWPLjJ/catapi.png" alt="catapi" border="0"></a>
 
