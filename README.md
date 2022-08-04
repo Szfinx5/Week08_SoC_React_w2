@@ -6,7 +6,7 @@
 ### This week we learned the following:
  - Pure components and how to create them
  - Finite State Machine and Reducer function
- - Testing in React with React Testing Library
+ - Testing in React with React Testing Library   
  - Git branching and Merge requests
 
 ---
